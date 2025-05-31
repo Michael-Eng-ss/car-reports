@@ -1,4 +1,4 @@
-import { Car } from '../App';
+import type { Car } from '../App';
 
 type CarListProps = {
   cars: Car[];
